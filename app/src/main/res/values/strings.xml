@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Quizmania</string>
+    <string name="topicHeadLine">Choose Topic</string>
+    <string name="NextButton">Next</string>
+    <string name="topic1">Topic1</string>
+    <string name="topic2">Topic2</string>
+    <string name="topic3">Topic3</string>
+    <string name="topic4">Topic4</string>
+    <string name="topic5">Topic5</string>
+    <string name="topic6">Topic6</string>
+    <string name="topic7">Topic7</string>
+    <string name="topic8">Topic8</string>
+    <string name="questionNo">#1</string>
+    <string name="question">This is a Question</string>
+    <string name="optionA">Option A</string>
+    <string name="optionB">Option B</string>
+    <string name="optionC">Option C</string>
+    <string name="optionD">Option D</string>
+</resources>
